@@ -564,6 +564,12 @@ html {
   --tw-backdrop-sepia:  ;
 }
 
+.btn {
+  background-color: blue;
+  padding: 12px 6px;
+  color: white;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -608,6 +614,6 @@ html {
           text-decoration-line: underline;
 }
 
-.filter-none {
+.hover\:filter-none:hover {
   filter: none;
 }

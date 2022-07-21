@@ -13,3 +13,11 @@
     filter: none;
   }
 }
+
+@layer components {
+  .btn {
+    background-color: blue;
+    padding: 12px 6px;
+    color: white;
+  }
+}
